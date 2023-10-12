@@ -1,2 +1,1 @@
-alert("hey buddy....")
-                console.log('vanakam da mapla')
+console.log('vanakam da mapla')
